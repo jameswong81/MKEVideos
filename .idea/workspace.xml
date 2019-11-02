@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72eb9396-8dd2-4fed-a521-485663552294" name="Default Changelist" comment="" />
+    <list default="true" id="72eb9396-8dd2-4fed-a521-485663552294" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/Home/album.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Home/videos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MKEXplore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MKEXplore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MKEXplore/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MKEXplore/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,11 +108,18 @@
       <list>
         <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -133,21 +150,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="MKEXplore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MKEXplore" type="462c0819:PsiDirectoryNode" />
+              <item name="MKEVideos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MKEVideos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MKEXplore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MKEXplore" type="462c0819:PsiDirectoryNode" />
+              <item name="MKEVideos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MKEVideos" type="462c0819:PsiDirectoryNode" />
               <item name="Home" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MKEXplore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MKEVideos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MKEVideos" type="462c0819:PsiDirectoryNode" />
               <item name="MKEXplore" type="462c0819:PsiDirectoryNode" />
               <item name="MKEXplore" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -157,22 +174,21 @@
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MKEXplore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MKEXplore" type="462c0819:PsiDirectoryNode" />
+              <item name="MKEVideos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MKEVideos" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="Home" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MKEXplore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MKEXplore" type="462c0819:PsiDirectoryNode" />
+              <item name="MKEVideos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MKEVideos" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="Home" type="462c0819:PsiDirectoryNode" />
-              <item name="includes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,16 +268,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572708335572</updated>
+      <workItem from="1572719530259" duration="3927000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4054000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20089285" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26251787" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -270,9 +292,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32993197" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4985694" visible="true" weight="0.28915662" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50143063" side_tool="true" visible="true" weight="0.28915662" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
