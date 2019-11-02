@@ -1,7 +1,6 @@
 \.idea/
-\.idea/workspace.xml
-\.idea/misc.xml
-\.idea/*.*
+.idea/misc.xml
+.idea/*.*
 
 Home/__pycache__/
 
@@ -10,3 +9,4 @@ db.sqlite3
 Home/migrations/0001_initial.py
 Home/migrations/__pycache__/0001_initial.cpython-37.pyc
 Home/migrations/__pycache__/__init__.cpython-37.pyc
+.idea/workspace.xml

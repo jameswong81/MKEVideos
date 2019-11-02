@@ -1,9 +1,9 @@
 from django.shortcuts import render, redirect
 from django.contrib.auth.models import User
 from .models import Videos
-import requests
+#import requests
 from django.conf import settings
-from isodate import parse_duration
+#from isodate import parse_duration
 
 # Create your views here.
 def test_view(request):
