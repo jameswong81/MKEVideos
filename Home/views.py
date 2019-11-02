@@ -14,7 +14,7 @@ def upload_file(request):
     else: # get
         return render(request, template_name='Home/upload.html')
 
-
+#Coded Homepage
 def videos(request):
     videos = []
 
